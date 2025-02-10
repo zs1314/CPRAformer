@@ -1,12 +1,12 @@
 # DAIT: Dual Aggregation Interaction Transformer for Image Deraining
 
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2102.02808)
-[![supplement](https://img.shields.io/badge/Supplementary-Material-B85252)](https://drive.google.com/file/d/1mbfljawUuFUQN9V5g0Rmw1UdauJdckCu/view?usp=sharing)
-[![project](https://img.shields.io/badge/project-page-brightgreen)](https://eduardzamfir.github.io/seemore/)
+[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)]()
+[![supplement](https://img.shields.io/badge/Supplementary-Material-B85252)]()
+[![project](https://img.shields.io/badge/project-page-brightgreen)](https://zs1314.github.io/DAIT/)
 
 #### 🔥🔥🔥 News
-- **2025-02-09:** This repo is released (Private).
+- **2025-02-10:** This repo is released.
 
 ---
 
