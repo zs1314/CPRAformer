@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: warmup-scheduler
+Version: 0.3
+Summary: Gradually Warm-up LR Scheduler for Pytorch
+Home-page: https://github.com/ildoonet/pytorch-gradual-warmup-lr
+License: MIT License
+Platform: UNKNOWN
+
+UNKNOWN
+
