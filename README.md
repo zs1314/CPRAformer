@@ -213,7 +213,7 @@ We kindly request that you cite our work if you utilize the code or reference ou
 @inproceedings{zou2025dait,
   title={DAIT: Dual Aggregation Interaction Transformer for Image Deraining},
   author={Zou, Shun and Zou, Yi and Chen, Zhihao and Gao, Guangwei and Qi, Guojun},
-  booktitle={ICME},
+  booktitle={},
   year={2025}
 }
 ```
