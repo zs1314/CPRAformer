@@ -160,6 +160,11 @@ We achieve state-of-the-art performance. Detailed results can be found in the pa
 
 <details>
 <summary>Visual Comparison (click to expand)</summary>
+- results in Figure 5 of the supplementary material
+
+<p align="center">
+  <img width="900" src="Figs/F8.png">
+</p>
 
 - results in Figure 6 of the main paper
 
