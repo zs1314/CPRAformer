@@ -133,6 +133,12 @@ We achieve state-of-the-art performance. Detailed results can be found in the pa
   <img width="900" src="Figs/T1.png">
 </p>
 
+- results in Table 2 of the main paper
+
+<p align="center">
+  <img width="900" src="Figs/T5.png">
+</p>
+
 - results in Table 2 of the supplementary material
 
 <p align="center">
