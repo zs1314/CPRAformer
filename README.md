@@ -1,4 +1,4 @@
-# DAIT: Dual Aggregation Interaction Transformer for Image Deraining
+# Cross Paradigm Representation and Alignment Transformer for Image Deraining
 
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)]()
@@ -222,9 +222,9 @@ Should you have any question, please contact shunzou.njau@gmail.com
 
 We kindly request that you cite our work if you utilize the code or reference our findings in your research:
 ```
-@inproceedings{zou2025dait,
-  title={DAIT: Dual Aggregation Interaction Transformer for Image Deraining},
-  author={Zou, Shun and Zou, Yi and Chen, Zhihao and Gao, Guangwei and Qi, Guojun},
+@inproceedings{zou2025cpraformer,
+  title={Cross Paradigm Representation and Alignment Transformer for Image Deraining},
+  author={Zou, Shun and Zou, Yi and Li, Juncheng and Chen, Zhihao and Gao, Guangwei and Qi, Guojun},
   booktitle={},
   year={2025}
 }
