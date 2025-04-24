@@ -1,7 +1,7 @@
 # Cross Paradigm Representation and Alignment Transformer for Image Deraining
 
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)]()
+[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2504.16455)
 [![supplement](https://img.shields.io/badge/Supplementary-Material-B85252)]()
 [![project](https://img.shields.io/badge/project-page-brightgreen)](https://zs1314.github.io/DAIT/)
 
