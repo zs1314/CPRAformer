@@ -10,26 +10,8 @@
 
 ---
 
-> **Abstract:** Transformer-based networks leveraging spatial or
-channel self-attention have achieved remarkable performance in
-image deraining tasks, inspiring us to utilize spatial and channel
-dimensions simultaneously. However, single-architecture feature
-representations struggle to handle real-world rain variations,
-making rich global-local information essential. We propose the
-Dual Aggregation Interaction Transformer (DAIT), leveraging
-the strengths of two paradigms (spatial-channel and globallocal) while enabling deep intra- and inter-paradigm interaction
-and fusion. Specifically, we propose two types of self-attention:
-Sparse Prompt Channel Self-Attention (SPC-SA) and Spatial
-Pixel Refinement Self-Attention (SPR-SA). SPC-SA uses dynamic
-sparsity to enhance global dependencies and facilitate channel
-context learning. SPR-SA emphasizes spatially varying rain
-distribution and local texture restoration. To address knowledge
-disparity, we introduce the Frequency Adaptive Interaction
-Module (FAIM) to eliminate feature isolation within and between
-paradigms progressively. Additionally, we employ a Multi-Scale
-Flow Gating Network (MSGN) to extract scale-aware features.
-Extensive experiments demonstrate DAIT achieves state-of-the-art
-performance on six benchmark datasets.
+> **Abstract:** Transformer-based networks have achieved strong performance in low-level vision tasks like image deraining by utilizing spatial or channel-wise self-attention. However, irregular rain patterns and complex geometric overlaps challenge single-paradigm architectures, necessitating a unified framework to integrate complementary global-local and spatial-channel representations. To address this, we propose a novel Cross Paradigm Representation and Alignment Transformer (CPRAformer). Its core idea is the hierarchical representation and alignment, leveraging the strengths of both paradigms (spatial-channel and global-local) to aid image reconstruction. It bridges the gap within and between paradigms, aligning and coordinating them to enable deep interaction and fusion of features. Specifically, we use two types of self-attention in the Transformer blocks: sparse prompt channel self-attention (SPC-SA) and spatial pixel refinement self-attention (SPR-SA). SPC-SA enhances global channel dependencies through dynamic sparsity, while SPR-SA focuses on spatial rain distribution and fine-grained texture recovery. To address the feature misalignment and knowledge differences between them, we introduce the Adaptive Alignment Frequency Module (AAFM), which aligns and interacts with features in a two-stage progressive manner, enabling adaptive guidance and complementarity. This reduces the information gap within and between paradigms. Through this unified cross-paradigm dynamic interaction framework, we achieve the extraction of the most valuable interactive fusion information from the two paradigms. Extensive experiments demonstrate that our model achieves state-of-the-art performance on eight benchmark datasets and further validates CPRAformer's robustness in other image restoration tasks and downstream applications.
+
 
 ![](Figs/DAIT.png)
 
