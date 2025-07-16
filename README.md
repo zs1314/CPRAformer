@@ -207,7 +207,7 @@ We kindly request that you cite our work if you utilize the code or reference ou
 @inproceedings{zou2025cpraformer,
   title={Cross Paradigm Representation and Alignment Transformer for Image Deraining},
   author={Zou, Shun and Zou, Yi and Li, Juncheng and Chen, Zhihao and Gao, Guangwei and Qi, Guojun},
-  booktitle={},
+  booktitle={ACM MM},
   year={2025}
 }
 ```
