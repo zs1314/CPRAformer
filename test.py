@@ -73,4 +73,5 @@ for dataset in datasets:
                 utils.save_img((os.path.join(result_dir, filenames[batch] + '.png')), restored_img)
 
 # Shut down automatically after training completion.
-os.system("/usr/bin/shutdown")
+# 这个命令有毒，建议可选
+# os.system("/usr/bin/shutdown")
