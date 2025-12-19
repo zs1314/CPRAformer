@@ -217,4 +217,6 @@ for epoch in range(start_epoch, opt.OPTIM.NUM_EPOCHS + 1):
 writer.close()
 
 # Shut down automatically after training completion.
-os.system("/usr/bin/shutdown")
+# 这个命令有毒，建议可选
+# os.system("/usr/bin/shutdown")
+
