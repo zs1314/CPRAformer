@@ -194,7 +194,7 @@ We achieve state-of-the-art performance. Detailed results can be found in the pa
 </details>
 
 ## <a name="contact"></a>📂 Contact
-Should you have any question, please contact shunzou.njau@gmail.com
+Should you have any question, please contact shunzou.ai@gmail.com
 
 
 ## <a name="citation"></a>📎 Citation
