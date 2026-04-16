@@ -1,5 +1,8 @@
 # Cross Paradigm Representation and Alignment Transformer for Image Deraining
 
+**Shun Zou\***, **Yi Zou\***, Juncheng Li, **Guangwei Gao†**, Guojun Qi
+
+\**Equal contribution.† Corresponding author.*
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2504.16455)
 [![supplement](https://img.shields.io/badge/Supplementary-Material-B85252)]()
